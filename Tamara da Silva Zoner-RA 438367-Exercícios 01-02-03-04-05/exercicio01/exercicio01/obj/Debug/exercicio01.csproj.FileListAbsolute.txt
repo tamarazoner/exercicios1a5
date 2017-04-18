@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+c:\users\user\documents\visual studio 2015\Projects\exercicio01\exercicio01\bin\Debug\exercicio01.exe
+c:\users\user\documents\visual studio 2015\Projects\exercicio01\exercicio01\bin\Debug\exercicio01.pdb
+c:\users\user\documents\visual studio 2015\Projects\exercicio01\exercicio01\obj\Debug\exercicio01.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+c:\users\user\documents\visual studio 2015\Projects\exercicio01\exercicio01\obj\Debug\exercicio01.pdb
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Projects\Projects\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Projects\Projects\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Projects\Projects\exercicio01\exercicio01\obj\Debug\exercicio01.pdb
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio01\exercicio01\obj\Debug\exercicio01.pdb
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio01\exercicio01\bin\Debug\exercicio01.exe
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio01\exercicio01\bin\Debug\exercicio01.pdb
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio01\exercicio01\obj\Debug\exercicio01.csprojResolveAssemblyReference.cache
+E:\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\Tamara da Silva Zoner-RA 438367-Exercícios 01-02-03-04-05\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+E:\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\Tamara da Silva Zoner-RA 438367-Exercícios 01-02-03-04-05\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+E:\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\Tamara da Silva Zoner-RA 438367-Exercícios 01-02-03-04-05\exercicio01\exercicio01\obj\Debug\exercicio01.pdb

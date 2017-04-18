@@ -1,0 +1,9 @@
+c:\users\tamara\documents\visual studio 2015\Projects\exercicio05\exercicio05\bin\Debug\exercicio05.exe.config
+c:\users\tamara\documents\visual studio 2015\Projects\exercicio05\exercicio05\bin\Debug\exercicio05.exe
+c:\users\tamara\documents\visual studio 2015\Projects\exercicio05\exercicio05\bin\Debug\exercicio05.pdb
+c:\users\tamara\documents\visual studio 2015\Projects\exercicio05\exercicio05\obj\Debug\exercicio05.csprojResolveAssemblyReference.cache
+c:\users\tamara\documents\visual studio 2015\Projects\exercicio05\exercicio05\obj\Debug\exercicio05.exe
+c:\users\tamara\documents\visual studio 2015\Projects\exercicio05\exercicio05\obj\Debug\exercicio05.pdb
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio05\exercicio05\bin\Debug\exercicio05.exe.config
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio05\exercicio05\obj\Debug\exercicio05.exe
+C:\Users\Tamara\Desktop\SISTEMAS DE INFORMACAO\BSI\Material do 5 Semestre\Implementação de Sistemas de Informação - Fabio Piola Navarro\Trabalhos\exercicio05\exercicio05\obj\Debug\exercicio05.pdb
